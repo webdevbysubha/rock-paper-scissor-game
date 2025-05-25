@@ -5,7 +5,7 @@ Built with **Amazon Q CLI** and **Pygame**, this project showcases interactive v
 
 ---
 
-![Rock Paper Scissors Banner](assets/banner.png)
+![Rock Paper Scissors Banner](assets/banner.jpg)
 
 ## ✨ Features
 
