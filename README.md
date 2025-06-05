@@ -93,6 +93,10 @@ rock-paper-scissors-game/
 ├── rps.py               # Core game logic
 ├── README.md             # Project documentation
 ```
+---
+## **🎮 Ready to Play? Directly Download & Install !**
+**Download the setup file**  
+   🔗 [Click here](https://1drv.ms/f/c/3964ccb855b6aa97/EuINSQ0DyeBEvzAcUOK9LkoBvUnoM_p5hCSzy1VJzzUSAA?e=tY1hA7)
 
 ## Developed With ❤️ by **Subha Mondal**
 
